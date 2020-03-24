@@ -1,5 +1,5 @@
 # ic (Integrated Class)
 
 ## TODO
-- [ ] Download Google Drive Folder
+- [x] Download Google Drive Folder
 - [ ] Support GD Recursive Folder
